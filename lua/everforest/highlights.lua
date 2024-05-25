@@ -604,7 +604,7 @@ highlights.generate_syntax = function(palette, options)
     ["@markup.math"] = { link = "TSMath" },
     ["@markup.quote"] = { link = "Grey" },
     ["@markup.raw"] = { link = "TSLiteral" },
-    ["@markup.strike"] = { link = "TSStrike" },
+    ["@markup.strikethrough"] = { link = "TSStrike" },
     ["@markup.strong"] = { link = "TSStrong" },
     ["@markup.underline"] = { link = "TSUnderline" },
     ["@math"] = { link = "TSMath" },
