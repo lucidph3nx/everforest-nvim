@@ -1726,6 +1726,7 @@ highlights.generate_syntax = function(palette, options)
     htmlUnderline = syntax_entry(palette.none, palette.none, { styles.underline }),
     htmlUnderlineItalic = syntax_entry(palette.none, palette.none, { styles.underline, styles.italic }),
     htmlItalic = syntax_entry(palette.none, palette.none, { styles.italic }),
+    htmlStrike = syntax_entry(palette.none, palette.none, { styles.strikethrough }),
     htmlTag = { link = "Green" },
     htmlEndTag = { link = "Blue" },
     htmlTagN = { link = "OrangeItalic" },
